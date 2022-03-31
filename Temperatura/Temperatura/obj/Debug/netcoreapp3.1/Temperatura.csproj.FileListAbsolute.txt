@@ -1,0 +1,9 @@
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.deps.json
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.dll
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.pdb
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfoInputs.cache
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfo.cs
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.CoreCompileInputs.cache
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.dll
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.pdb
+D:\Dev\C Shap\Testes Unitarios\SpecFlow\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.AssemblyReference.cache
